@@ -1,2 +1,2 @@
 # JavaScript
-Curso com JavaScript
+Curso com JavaScript Ola pessoas
